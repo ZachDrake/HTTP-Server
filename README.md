@@ -10,7 +10,7 @@ Upon recieving a GET/HEAD requests the server returns
 - 404 Not Found with a 404 HTML page
 
 Example Usage:
-Compile program with gcc - gcc main.c
-Launch program - sudo ./a.out (sudo required because we are listening on port 80)
-Visit http://localhost/index.html on your browser
+- Compile program with gcc - gcc main.c
+- Launch program - sudo ./a.out (sudo required because we are listening on port 80)
+- Visit http://localhost/index.html on your browser
 
